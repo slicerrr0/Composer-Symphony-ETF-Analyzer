@@ -15,5 +15,3 @@ This program requires the user to specify the URL of the Symphony they want to a
 python analyze.py -u https://app.composer.trade/symphony/PdgUAAy4GmEQvGyKsYZt/details -o outputs/example.csv
 
 ```
-
-# How to Use
