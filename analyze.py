@@ -3,7 +3,7 @@ import requests
 from requests_html import HTMLSession
 import json
 import csv
-from etf_analyzer.functions import extract_symphId, gather_etfs, etf_data_iterator
+from etf_analyzer.functions import extract_symphId, gather_etfs
 from etf_analyzer.css_selectors import CSS_SELECTORS
 
 def main():
