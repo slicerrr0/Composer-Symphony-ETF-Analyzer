@@ -1,5 +1,5 @@
 '''
-Contains CSS selectors for data points.
+Contains CSS selectors from `https://composer.trade/etf/{etf}` for data points.
 '''
 
 CSS_SELECTORS = {
