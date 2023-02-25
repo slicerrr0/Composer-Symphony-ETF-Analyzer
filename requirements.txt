@@ -1,0 +1,7 @@
+requests
+requests_html
+bs4
+argparse
+re
+csv
+json
