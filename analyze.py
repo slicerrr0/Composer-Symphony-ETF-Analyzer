@@ -32,7 +32,9 @@ def main():
     print('Scraping ETF data...')
     
     for etf in etfs:
+        # Initialize dictionary for ETF data scraped from Composer
         data_dict = dict()
+        
         data_dict['ETF'] = etf
         s = session.get(f'https://composer.trade/etf/{etf}/')
         s.html.render()
