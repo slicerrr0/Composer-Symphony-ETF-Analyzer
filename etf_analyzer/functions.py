@@ -1,8 +1,6 @@
 '''
 Contains functions used to execute the program effectively.
 '''
-import requests
-import bs4
 import re
 from .exceptions import InvalidSymphonyUrl
 
